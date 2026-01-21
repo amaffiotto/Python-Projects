@@ -1,0 +1,18 @@
+type: edu
+custom_name: Help is on the way
+files:
+  - name: hangman/hangman.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: true
+    learner_created: false
+  - name: test/tests.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/69/stages/375/implement#comment
+status: Unchecked
+record: -1
